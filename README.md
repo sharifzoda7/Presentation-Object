@@ -2,12 +2,12 @@
 
 Table of Contents
 
-*OBJECT
+>OBJECT
 
-*Destructuring
+>Destructuring
 
-*Spread
+>Spread
 
-*THIS
+>THIS
 
-*New Date()
+>New Date()
