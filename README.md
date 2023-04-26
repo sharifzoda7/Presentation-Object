@@ -2,8 +2,12 @@
 
 Table of Contents
 
->>OBJECT
->>Destructuring
->>Spread
->>THIS
->>New Date()
+>OBJECT
+
+Destructuring
+
+Spread
+
+THIS
+
+New Date()
